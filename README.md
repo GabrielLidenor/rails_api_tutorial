@@ -7,4 +7,4 @@ Source code of my tutorial for creating an API using Rails Api
 * Rails 5.0.1
 
 # Tutorial Link
-  * How to build an API using Rails - Part 1 - 
+  * How to build an API using Rails - Part 1 - https://goo.gl/bHWEgl
