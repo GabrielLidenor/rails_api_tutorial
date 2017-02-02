@@ -1,24 +1,10 @@
-# README
+# Ruby on Rails API tutorial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Source code of my tutorial for creating an API using Rails Api
 
-Things you may want to cover:
+* Ruby 2.3.0
 
-* Ruby version
+* Rails 5.0.1
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Tutorial Link
+  * How to build an API using Rails - Part 1 - 
